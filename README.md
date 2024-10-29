@@ -76,3 +76,11 @@ npm start
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Screenshots
+
+![screencapture-localhost-3000-2024-10-29-19_33_54](https://github.com/user-attachments/assets/7158d74b-f294-4b18-b49a-30293af4c38d)
+
+![screencapture-localhost-3000-2024-10-29-19_33_54](https://github.com/user-attachments/assets/10a6a52e-56af-4afe-b539-1cb64439e082)
+
+
