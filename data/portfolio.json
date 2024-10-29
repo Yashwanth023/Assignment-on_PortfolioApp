@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "title": "Beginners way to React.js",
+      "description": "Lorem ipsum dolor sit amet consectetur. Nulla etiam bibendum ut turpis tempus lorem.",
+      "image": "/image1.jpeg",
+      "price": "80.000$-200.000$"
+    },
+    {
+      "id": 2,
+      "title": "Complete Guide to DSA!",
+      "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "image": "/image2.jpeg",
+      "price": "100.000$-250.000$"
+    },
+    {
+      "id": 3,
+      "title": "Python Course for Beginners",
+      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "/image3.jpeg",
+      "price": "150.000$-300.000$"
+    },
+    {
+      "id": 4,
+      "title": "Introductionto Node.js",
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "image": "/image4.jpeg",
+      "price": "70.000$-180.000$"
+    },
+    {
+      "id": 1,
+      "title": "Next.js Full Course 2024", 
+      "description": "Lorem ipsum dolor sit amet consectetur. Nulla etiam bibendum ut turpis tempus lorem.",
+      "image": "/image5.jpeg",
+      "price": "80.000$-200.000$"
+    },
+    {
+      "id": 2,
+      "title": "Git and Github ",
+      "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "image": "/image6.jpeg",
+      "price": "100.000$-250.000$"
+    },
+    {
+      "id": 3,
+      "title": "Introduction to C Programming",
+      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "/image7.jpeg",
+      "price": "150.000$-300.000$"
+    },
+    {
+      "id": 4,
+      "title": "Course on PostgreSQL Database",
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "image": "/image8.jpeg",
+      "price": "70.000$-180.000$"
+    }
+  ]
