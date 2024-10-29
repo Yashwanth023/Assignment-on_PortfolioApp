@@ -81,6 +81,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ![screencapture-localhost-3000-2024-10-29-19_33_54](https://github.com/user-attachments/assets/7158d74b-f294-4b18-b49a-30293af4c38d)
 
-![screencapture-localhost-3000-2024-10-29-19_33_54](https://github.com/user-attachments/assets/10a6a52e-56af-4afe-b539-1cb64439e082)
+![screencapture-localhost-3000-checkout-3-2024-10-29-19_34_56](https://github.com/user-attachments/assets/f6db2637-8758-4196-93e3-4f612d7d1ce1)
+
 
 
